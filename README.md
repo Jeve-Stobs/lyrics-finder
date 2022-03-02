@@ -5,6 +5,7 @@
    <br>
    <a href="https://www.npmjs.com/package/@jeve/lyrics-finder"><img src="https://nodei.co/npm/@jeve/lyrics-finder.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 </p>
+
 ## Install the package 📥
 ```sh
 npm install @jeve/lyrics-finder
