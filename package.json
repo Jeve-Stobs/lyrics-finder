@@ -1,6 +1,7 @@
 {
   "name": "@jeve/lyrics-finder",
   "version": "1.0.0",
+  "private": false,
   "description": "An npm package to fetch song lyrics from Google",
   "main": "index.js",
   "scripts": {
