@@ -1,5 +1,5 @@
 {
-  "name": "lyrics-finder",
+  "name": "@jeve/lyrics-finder",
   "version": "1.0.0",
   "description": "An npm package to fetch song lyrics from Google",
   "main": "index.js",
@@ -16,11 +16,14 @@
   "author": "Jeve Stobs <https://github.com/jeve-stobs>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeve-stobs/lyrics-finder.git"
+    "url": "git+https://github.com/jeve-stobs/lyrics-finder.git"
   },
-  "license": "CC BY-NC-ND 4.0",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.4",
     "html-entities": "^2.3.2"
+  },
+  "directories": {
+    "test": "test"
   }
 }
