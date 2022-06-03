@@ -21,8 +21,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.26.0",
-    "html-entities": "^2.3.2"
+    "axios": "^0.27.2",
+    "html-entities": "^2.3.3"
   },
   "directories": {
     "test": "test"
